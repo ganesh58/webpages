@@ -3,7 +3,7 @@
 Using of Git and Tortisegit
 
 ## Repository links
-[Source](https://ganesh58.github.io/webpages/.)
+[Source](https://github.com/ganesh58/webpages)
 
 
 ## About 
