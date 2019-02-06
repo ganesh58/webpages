@@ -19,7 +19,7 @@ The main purpose of this project is to explain how to use both git and tortoise 
 
 [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
 
-## Git logo
+## Git Logo
 
 ![alt text](https://alanarnholt.github.io/images/git.jpg)
 
@@ -67,6 +67,11 @@ Different ways of using git and how we can use git for exchanging our code when 
 1. Ganesh Siripuram
 1. Sai Sree Dachepally
 1. Sanjana Basavapuram
+
+
+
+
+##                                                      Thank You
 
 
 
