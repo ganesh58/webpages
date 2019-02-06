@@ -16,7 +16,7 @@ The main purpose of this project is to explain how to use both git and tortoise 
 
 [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
 
-## Screenshots
+## Git logo
 
 ![alt text](https://alanarnholt.github.io/images/git.jpg)
 
