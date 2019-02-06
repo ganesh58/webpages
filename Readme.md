@@ -40,9 +40,12 @@ Akash Nimare
 [-a link] (https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 
 
-# License
+1. Chatur Veda Vyas Kurma
+1. Ganesh Siripuram
+1. Sai Sree Dachepally
+1. Sanjana Basavapuram
 
-MIT 
+
 
 
 
