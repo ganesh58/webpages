@@ -50,8 +50,8 @@ Different ways of using git and how we can use git for exchanging our code when 
 
 ## API Reference
 
-. [git] (https://developer.github.com/v3/)
-. [tortoisegit] (https://tortoisegit.org/docs/tortoisegit/)
+1. [git] (https://developer.github.com/v3/)
+1. [tortoisegit] (https://tortoisegit.org/docs/tortoisegit/)
 
 
 ## Team Members
