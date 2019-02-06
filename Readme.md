@@ -39,19 +39,19 @@ Different ways of using git and how we can use git for exchanging our code when 
 
 ## Recommended Resources
 
-[Viasual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+1. [Viasual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 
-[Git](https://en.wikipedia.org/wiki/Git)
+1. [Git](https://en.wikipedia.org/wiki/Git)
 
-[GitHub](https://help.github.com/articles/about-wikis/)
+1. [GitHub](https://help.github.com/articles/about-wikis/)
 
-[Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B)
+1. [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B)
 
 
 ## API Reference
 
-[git] (https://developer.github.com/v3/)
-[tortoisegit] (https://tortoisegit.org/docs/tortoisegit/)
+. [git] (https://developer.github.com/v3/)
+. [tortoisegit] (https://tortoisegit.org/docs/tortoisegit/)
 
 
 ## Team Members
