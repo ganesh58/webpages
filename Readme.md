@@ -38,7 +38,8 @@ Different ways of using git and how we can use git for exchanging our code when 
 
 1. [Visual Studio](https://code.visualstudio.com/) - visual studio code is a source code editor whih is developed by Microsoft.
 
-1. Notepad++ - Notepad++ is a text editor. It allows working with multiple open files in a single window. 
+1. [Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B)
+ is a text editor. It allows working with multiple open files in a single window. 
 
 ## Recommended Resources
 
